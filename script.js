@@ -51,7 +51,7 @@ function reveal(){
   }
 }
 //  javascript for  html contact form 
-const scriptURL = 'https://script.google.com/macros/s/AKfycbxuCwNWHB7UtKcV1kIYitmA_HAHfJRagMUCguoHg7fn1e4CUFkxRbeVpTrbqYcbOSyA/exec'
+const scriptURL = 'https://script.google.com/macros/s/AKfycby6fs2bQMe1UWI0TcJpX-owUzbi-IFvfWXwS7s_2PaNY7vWtYsxU34qAvv11GQdc29y/exec'
 
 const form = document.forms['contact-form']
 
@@ -68,3 +68,5 @@ fetch(scriptURL, { method: 'POST', body: new FormData(form)})
 .catch(error => console.error('Error!', error.message))
 
 })
+
+
