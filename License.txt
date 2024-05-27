@@ -1,0 +1,31 @@
+
+*Copyright (c) 2024 [Mihir Patnaik]*
+
+This work is licensed under a *Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)*.
+
+You are free to:
+
+* *Share* - Copy and redistribute the material in any medium or format.
+* *Credit* - You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+   You must do so in a way that is reasonable and does not suggest that the licensor endorses you or your use of the work.
+
+*You may not:*
+
+* *Commercialize* - You may not use the material for commercial purposes.
+* *Adapt* - You may not alter, transform, or build upon the material.
+
+*Permissions beyond the scope of this license may be available by contacting the copyright holder.*
+
+*Key points:*
+
+* This license allows visitors to download your project for reference (attribution).
+* Modifying the code or claiming it as their own is prohibited (non-derivative).
+* It discourages commercial use (non-commercial).
+* For modifications or commercial use, they can contact you for permission.
+
+***Claiming ownership of this project or its code without explicit permission from the copyright holder constitutes copyright infringement
+   and will be pursued to the fullest extent of the law.***
+
+***Permissions beyond the scope of this license may be available by contacting the copyright holder.***
+* *All Rights Reserved: Mihir Patnaik * 
+
